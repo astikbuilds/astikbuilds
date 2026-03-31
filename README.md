@@ -1,10 +1,12 @@
 <div align="center">
 
-# Astik Kumar
-
-### Full-Stack Dev · ML Enthusiast · Open Source Builder
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=200&section=header&text=Astik%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Dev%20%C2%B7%20ML%20Enthusiast%20%C2%B7%20Open%20Source%20Builder&descSize=16&descColor=c084fc&descAlignY=65&animation=twinkling)](https://github.com/Astik01)
 
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astik-kumar-a94aa628a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Astik1/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aastikrajput1@gmail.com)
 
 </div>
 
@@ -63,6 +65,7 @@ Your App → ContextForge Gateway
 | **[📈 munafa.io](https://github.com/Astik01)** | NSE stock market analytics dashboard with live index feeds, sparkline charts, and a Groww-inspired glassmorphism UI. | `React` `Vite` `Recharts` |
 | **[🧠 MediScan AI](https://github.com/Astik01)** | Cancer diagnosis classification — XGBoost + SHAP explainability served over FastAPI with a React dashboard. | `Python` `FastAPI` `TensorFlow` |
 | **[Neuracare](https://github.com/Astik01)** | AI-powered telemedicine frontend with symptom checker chatbot, booking flow, and health library. | `HTML` `CSS` `Vanilla JS` |
+| **[Portfolio](https://github.com/Astik01)** | Single-file self-contained portfolio. Bold typography, animated skill bars, orange accent. | `HTML` `CSS` `Syne` |
 
 ---
 
