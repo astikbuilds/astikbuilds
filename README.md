@@ -6,9 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astik-kumar-a94aa628a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Astik1/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aastikrajput1@gmail.com)
+
 
 </div>
 
@@ -16,7 +14,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Hey there! I'm a Computer Science student from India who enjoys tackling complex problems through Data Structures & Algorithms and building projects in backend development and data analytics.
+Hey there! I'm a Computer Science student who enjoys tackling complex problems through Data Structures & Algorithms and building projects in backend development and data analytics.
 
 Currently deepening my expertise in **system design**, **scalable backend architectures**, and **data-driven applications** — the kind of work where performance decisions actually matter at scale.
 
@@ -67,7 +65,6 @@ Your App → ContextForge Gateway
 | **[📈 munafa.io](https://github.com/Astik01)** | NSE stock market analytics dashboard with live index feeds, sparkline charts, and a Groww-inspired glassmorphism UI. | `React` `Vite` `Recharts` |
 | **[🧠 MediScan AI](https://github.com/Astik01)** | Cancer diagnosis classification — XGBoost + SHAP explainability served over FastAPI with a React dashboard. | `Python` `FastAPI` `TensorFlow` |
 | **[Neuracare](https://github.com/Astik01)** | AI-powered telemedicine frontend with symptom checker chatbot, booking flow, and health library. | `HTML` `CSS` `Vanilla JS` |
-| **[Portfolio](https://github.com/Astik01)** | Single-file self-contained portfolio. Bold typography, animated skill bars, orange accent. | `HTML` `CSS` `Syne` |
 
 ---
 
