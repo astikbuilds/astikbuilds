@@ -1,6 +1,37 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=200&section=header&text=Astik%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Dev%20%C2%B7%20ML%20Enthusiast%20%C2%B7%20Open%20Source%20Builder&descSize=16&descColor=c084fc&descAlignY=65&animation=twinkling)](https://github.com/Astik01)
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="150" fill="#0d1117"/>
+
+  <!-- Name fades in -->
+  <text x="400" y="78" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="50" font-weight="700" fill="#e6edf3" opacity="0">
+    Astik Kumar
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.2s" fill="freeze"/>
+  </text>
+
+  <!-- Subtitle fades in -->
+  <text x="400" y="108" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="13" fill="#8b949e" letter-spacing="4" opacity="0">
+    FULL-STACK DEV  ·  ML ENTHUSIAST  ·  OPEN SOURCE
+    <animate attributeName="opacity" from="0" to="0.85" dur="1s" begin="0.9s" fill="freeze"/>
+  </text>
+
+  <!-- Underline draws outward from center -->
+  <line x1="400" y1="120" x2="400" y2="120" stroke="url(#g)" stroke-width="1.5" stroke-linecap="round">
+    <animate attributeName="x1" from="400" to="295" dur="0.7s" begin="1.6s" fill="freeze"/>
+    <animate attributeName="x2" from="400" to="505" dur="0.7s" begin="1.6s" fill="freeze"/>
+  </line>
+</svg>
 
 <br/>
 
