@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=46&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Astik+Kumar" alt="Astik Kumar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=400&size=16&duration=2000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Full-Stack+Dev+%C2%B7+ML+Enthusiast+%C2%B7+Open+Source+Builder;B.Tech+CSE+%C2%B7+6th+Sem+%C2%B7+Bengaluru%2C+India;Open+to+Summer+%2F+Fall+2026+Internships" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=400&size=16&duration=2000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Full-Stack+Dev+%C2%B7+ML+Enthusiast+%C2%B7+Open+Source+Builder;Open+to+Summer+%2F+Fall+2026+Internships" alt="subtitle" />
 
 <br/>
 
