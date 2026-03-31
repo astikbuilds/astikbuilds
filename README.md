@@ -63,7 +63,6 @@ Your App → ContextForge Gateway
 | **[📈 munafa.io](https://github.com/Astik01)** | NSE stock market analytics dashboard with live index feeds, sparkline charts, and a Groww-inspired glassmorphism UI. | `React` `Vite` `Recharts` |
 | **[🧠 MediScan AI](https://github.com/Astik01)** | Cancer diagnosis classification — XGBoost + SHAP explainability served over FastAPI with a React dashboard. | `Python` `FastAPI` `TensorFlow` |
 | **[Neuracare](https://github.com/Astik01)** | AI-powered telemedicine frontend with symptom checker chatbot, booking flow, and health library. | `HTML` `CSS` `Vanilla JS` |
-| **[Portfolio](https://github.com/Astik01)** | Single-file self-contained portfolio. Bold typography, animated skill bars, orange accent. | `HTML` `CSS` `Syne` |
 
 ---
 
