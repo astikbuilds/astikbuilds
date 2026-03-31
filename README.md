@@ -1,37 +1,8 @@
 <div align="center">
 
-<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#a78bfa"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
-    </linearGradient>
-  </defs>
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=46&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Astik+Kumar" alt="Astik Kumar" />
 
-  <rect width="800" height="150" fill="#0d1117"/>
-
-  <!-- Name fades in -->
-  <text x="400" y="78" text-anchor="middle"
-        font-family="'Segoe UI', Arial, sans-serif"
-        font-size="50" font-weight="700" fill="#e6edf3" opacity="0">
-    Astik Kumar
-    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.2s" fill="freeze"/>
-  </text>
-
-  <!-- Subtitle fades in -->
-  <text x="400" y="108" text-anchor="middle"
-        font-family="'Segoe UI', Arial, sans-serif"
-        font-size="13" fill="#8b949e" letter-spacing="4" opacity="0">
-    FULL-STACK DEV  ·  ML ENTHUSIAST  ·  OPEN SOURCE
-    <animate attributeName="opacity" from="0" to="0.85" dur="1s" begin="0.9s" fill="freeze"/>
-  </text>
-
-  <!-- Underline draws outward from center -->
-  <line x1="400" y1="120" x2="400" y2="120" stroke="url(#g)" stroke-width="1.5" stroke-linecap="round">
-    <animate attributeName="x1" from="400" to="295" dur="0.7s" begin="1.6s" fill="freeze"/>
-    <animate attributeName="x2" from="400" to="505" dur="0.7s" begin="1.6s" fill="freeze"/>
-  </line>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=400&size=16&duration=2000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Full-Stack+Dev+%C2%B7+ML+Enthusiast+%C2%B7+Open+Source+Builder;B.Tech+CSE+%C2%B7+6th+Sem+%C2%B7+Bengaluru%2C+India;Open+to+Summer+%2F+Fall+2026+Internships" alt="subtitle" />
 
 <br/>
 
