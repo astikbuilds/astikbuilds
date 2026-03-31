@@ -1,6 +1,8 @@
-
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Astik%20Kumar&fontSize=48&fontColor=f0f0f0&fontAlignY=45&desc=Full-Stack%20Dev%20%C2%B7%20ML%20Enthusiast%20%C2%B7%20Open%20Source%20Builder&descSize=15&descColor=a78bfa&descAlignY=68&animation=fadeIn" width="100%" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astik-kumar-a94aa628a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Astik1/)
@@ -10,17 +12,9 @@
 
 ---
 
-## ❯ `whoami`
+## 👨🏻‍💻 About Me
 
-```yaml
-name     : Astik Kumar
-handles  : @Astik01
-degree   : B.Tech CSE — 6th Semester
-location : Bengaluru, India
-status   : Open to internships · Summer / Fall 2026
-```
-
-Hey there! 👨🏻‍💻 I'm a Computer Science student from India who enjoys tackling complex problems through Data Structures & Algorithms and building projects in backend development and data analytics.
+Hey there! I'm a Computer Science student from India who enjoys tackling complex problems through Data Structures & Algorithms and building projects in backend development and data analytics.
 
 Currently deepening my expertise in **system design**, **scalable backend architectures**, and **data-driven applications** — the kind of work where performance decisions actually matter at scale.
 
@@ -167,4 +161,3 @@ I'm always open to interesting conversations, collaboration opportunities, or ju
 ![Profile Views](https://komarev.com/ghpvc/?username=Astik01&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
-
