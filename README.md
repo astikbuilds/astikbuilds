@@ -6,8 +6,6 @@
 
 <br/>
 
-
-
 </div>
 
 ---
@@ -24,27 +22,19 @@ When I'm not coding, I'm exploring new technologies, grinding competitive progra
 
 ---
 
-## 🚀 Flagship Project
+## 📂 Projects
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
 ### [⚡ ContextForge](https://github.com/Astik01/contextforge)
+
 **OpenAI-compatible LLM proxy middleware — cut API costs by up to 60% with zero code changes.**
 
-Point your app at `localhost:8000` instead of `api.openai.com`. Same SDK, same API, same code. Behind the scenes:
+Point your app at `localhost:8000` instead of `api.openai.com`. Same SDK, same API, same code. Behind the scenes: context compression, semantic cache (FAISS + Redis, ≥92% cosine similarity → <30ms hits), smart model routing, and full telemetry.
 
-```
-Your App → ContextForge Gateway
-              ├─ Context Compression   (summarize long conversations → fewer tokens)
-              ├─ Semantic Cache         (FAISS + Redis, ≥92% cosine similarity → <30ms hits)
-              ├─ Smart Model Router     (simple → gpt-3.5 | complex → gpt-4o)
-              ├─ Telemetry              (SQLite, p95 latency, cache hit rate, cost tracking)
-              └─ Response ← upstream API
-```
-
-84+ tests passing · fully containerized · real-time analytics dashboard · MIT licensed
+84+ tests · fully containerized · real-time analytics dashboard
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -53,24 +43,57 @@ Your App → ContextForge Gateway
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
+
+### [📈 munafa.io](https://github.com/Astik01)
+
+**NSE stock market analytics dashboard with live index feeds, sparkline charts, and a Groww-inspired glassmorphism UI.**
+
+Real-time market data, index constituent pages, Three.js visual elements, and a clean fintech-grade interface built for Indian retail investors.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🧠 MediScan AI](https://github.com/Astik01)
+
+**Oncology diagnosis dashboard — XGBoost classification with SHAP explainability, served over FastAPI with a React frontend.**
+
+Built on a 600-patient synthetic dataset with 45 features. Model decisions are made interpretable via SHAP force plots, giving clinicians transparency alongside predictions.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [🏥 Neuracare](https://github.com/Astik01)
+
+**AI-powered telemedicine frontend with symptom checker chatbot, appointment booking flow, and health library.**
+
+Zero-dependency vanilla build — fast, portable, and fully client-side. Focused on accessible UX for patient-facing healthcare workflows.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 📂 More Projects
-
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| **[📈 munafa.io](https://github.com/Astik01)** | NSE stock market analytics dashboard with live index feeds, sparkline charts, and a Groww-inspired glassmorphism UI. | `React` `Vite` `Recharts` |
-| **[🧠 MediScan AI](https://github.com/Astik01)** | Cancer diagnosis classification — XGBoost + SHAP explainability served over FastAPI with a React dashboard. | `Python` `FastAPI` `TensorFlow` |
-| **[Neuracare](https://github.com/Astik01)** | AI-powered telemedicine frontend with symptom checker chatbot, booking flow, and health library. | `HTML` `CSS` `Vanilla JS` |
-
----
-
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 **Languages**
 
@@ -100,8 +123,6 @@ Your App → ContextForge Gateway
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-
-</div>
 
 ---
 
