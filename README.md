@@ -22,8 +22,6 @@ Hey there! I'm a B.Tech Computer Science student (6th semester) based in **Benga
 
 Currently deepening my expertise in **system design**, **scalable backend architectures**, and **data-driven applications** — the kind of work where performance decisions actually matter at scale.
 
-I've shipped projects across the full stack — from LLM proxy middleware and ML diagnosis dashboards to real-time fintech UIs — always with a bias toward clean APIs, measurable outcomes, and code that doesn't break in prod.
-
 - 🔭 &nbsp;Currently building: **munafa.io** — a real-time NSE analytics dashboard
 - 🌱 &nbsp;Exploring: **System Design**, **Distributed Systems**, **Advanced ML pipelines**
 - 🎯 &nbsp;2026 Goal: Land a meaningful backend / ML engineering internship
@@ -34,73 +32,12 @@ I've shipped projects across the full stack — from LLM proxy middleware and ML
 
 ## 📂 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [⚡ ContextForge](https://github.com/Astik01/contextforge)
-
-**OpenAI-compatible LLM proxy middleware — cut API costs by up to 60% with zero code changes.**
-
-Point your app at `localhost:8000` instead of `api.openai.com`. Same SDK, same API, same code. Behind the scenes: context compression, semantic cache (FAISS + Redis, ≥92% cosine similarity → <30ms hits), smart model routing, and full telemetry.
-
-84+ tests · fully containerized · real-time analytics dashboard
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [📈 munafa.io](https://github.com/Astik01)
-
-**NSE stock market analytics dashboard with live index feeds, sparkline charts, and a Groww-inspired glassmorphism UI.**
-
-Real-time market data, index constituent pages, Three.js visual elements, and a clean fintech-grade interface built for Indian retail investors.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=flat-square)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🧠 MediScan AI](https://github.com/Astik01)
-
-**Oncology diagnosis dashboard — XGBoost classification with SHAP explainability, served over FastAPI with a React frontend.**
-
-Built on a 600-patient synthetic dataset with 45 features. Model decisions are made interpretable via SHAP force plots, giving clinicians transparency alongside predictions.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [🏥 Neuracare](https://github.com/Astik01)
-
-**AI-powered telemedicine frontend with symptom checker chatbot, appointment booking flow, and health library.**
-
-Zero-dependency vanilla build — fast, portable, and fully client-side. Focused on accessible UX for patient-facing healthcare workflows.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [⚡ **ContextForge**](https://github.com/Astik01/contextforge) | OpenAI-compatible LLM proxy middleware. Cut API costs by up to 60% with zero code changes — context compression, semantic cache (FAISS + Redis, <30ms hits), smart model routing, and full telemetry. 84+ tests · fully containerized. | `Python` `FastAPI` `Redis` `Docker` `FAISS` `SQLite` |
+| [📈 **munafa.io**](https://github.com/Astik01) | NSE stock market analytics dashboard with live index feeds, sparkline charts, index constituent pages, Three.js visual elements, and a Groww-inspired glassmorphism UI. | `React` `Vite` `MUI` `Recharts` `Three.js` |
+| [🧠 **MediScan AI**](https://github.com/Astik01) | Oncology diagnosis dashboard — XGBoost + SHAP explainability served over FastAPI with a React frontend. Built on a 600-patient synthetic dataset with 45 features, with SHAP force plots for clinical interpretability. | `Python` `FastAPI` `XGBoost` `React` `SQLite` |
+| [🏥 **Neuracare**](https://github.com/Astik01) | AI-powered telemedicine frontend with symptom checker chatbot, appointment booking flow, and health library. Zero-dependency vanilla build — fast, portable, fully client-side. | `HTML` `CSS` `Vanilla JS` |
 
 ---
 
@@ -145,55 +82,22 @@ Zero-dependency vanilla build — fast, portable, and fully client-side. Focused
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=7c3aed&text_color=1f2328&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&hide_border=true&include_all_commits=true" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik01&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik01&hide_border=true&layout=compact&langs_count=8&bg_color=00000000&title_color=7c3aed&text_color=1f2328" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik01&hide_border=true&layout=compact&langs_count=8" />
-</picture>
+<a href="https://github.com/Astik01">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Astik01">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik01&hide_border=true&layout=compact&langs_count=8&card_width=320&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9" />
+</a>
 
-<br/>
+<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Astik01&hide_border=true&background=00000000&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f0f0&sideNums=f0f0f0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Astik01&hide_border=true&background=00000000&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=1f2328&dates=57606a&currStreakNum=1f2328&sideNums=1f2328" />
-  <img src="https://streak-stats.demolab.com/?user=Astik01&hide_border=true" />
-</picture>
+<a href="https://github.com/Astik01">
+  <img src="https://streak-stats.demolab.com/?user=Astik01&hide_border=true&background=00000000&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f0f0&sideNums=f0f0f0" />
+</a>
 
-<br/>
+<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Astik01&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=a78bfa&line=a78bfa&point=f0f0f0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Astik01&theme=minimal&hide_border=true&area=true&bg_color=00000000&color=7c3aed&line=7c3aed&point=1f2328" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astik01&hide_border=true&area=true" width="95%" />
-</picture>
-
----
-
-## 🏆 GitHub Trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Astik01&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Astik01&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Astik01&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</picture>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astik01/Astik01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Astik01/Astik01/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Astik01/Astik01/output/github-snake.svg" width="100%" />
-</picture>
-
-> **Note:** To enable the snake, add a GitHub Actions workflow in your profile repo. See [Platane/snk](https://github.com/Platane/snk) for setup.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astik01&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=a78bfa&line=a78bfa&point=f0f0f0" width="95%" />
 
 ---
 
