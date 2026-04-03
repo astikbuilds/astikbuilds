@@ -6,10 +6,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astik-kumar-a94aa628a/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aastikrajput1@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Astik1/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/aastikrqqu2)
 ![Profile Views](https://komarev.com/ghpvc/?username=Astik01&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
@@ -83,21 +79,19 @@ Currently deepening my expertise in **system design**, **scalable backend archit
 ## 📊 GitHub Stats
 
 <a href="https://github.com/Astik01">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&hide_border=true&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Astik01">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik01&hide_border=true&layout=compact&langs_count=8&card_width=320&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik01&hide_border=true&layout=compact&langs_count=8&card_width=320&theme=tokyonight&title_color=a78bfa" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Astik01">
-  <img src="https://streak-stats.demolab.com/?user=Astik01&hide_border=true&background=00000000&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f0f0&sideNums=f0f0f0" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=Astik01&hide_border=true&background=1a1b27&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f0f0&sideNums=f0f0f0" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astik01&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=a78bfa&line=a78bfa&point=f0f0f0" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astik01&theme=react-dark&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=f0f0f0" width="95%" />
 
 ---
 
