@@ -14,15 +14,13 @@
 
 ## 👨🏻‍💻 About Me
 
-Hey there! I'm a B.Tech Computer Science student (6th semester) based in **Bengaluru** who enjoys tackling complex problems through Data Structures & Algorithms and building projects in backend development and data analytics.
+Hey there! I'm a Computer Science student who enjoys tackling complex problems through Data Structures & Algorithms and building projects in backend development and data analytics.
 
-Currently deepening my expertise in **system design**, **scalable backend architectures**, and **data-driven applications** — the kind of work where performance decisions actually matter at scale.
+Currently deepening my expertise in system design, scalable backend architectures, and data-driven applications — the kind of work where performance decisions actually matter at scale.
 
-- 🔭 &nbsp;Currently building: **munafa.io** — a real-time NSE analytics dashboard
-- 🌱 &nbsp;Exploring: **System Design**, **Distributed Systems**, **Advanced ML pipelines**
-- 🎯 &nbsp;2026 Goal: Land a meaningful backend / ML engineering internship
-- 💬 &nbsp;Ask me about: FastAPI, React, XGBoost, FAISS, Redis, or DSA
-- ⚡ &nbsp;Fun fact: I debug faster with lo-fi music on
+I've shipped projects across the full stack — from LLM proxy middleware and ML diagnosis dashboards to real-time fintech UIs — always with a bias toward clean APIs, measurable outcomes, and code that doesn't break in prod.
+
+When I'm not coding, I'm exploring new technologies, grinding competitive programming, or connecting with the developer community. I believe the best engineers are the ones who never stop being curious.
 
 ---
 
